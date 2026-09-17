@@ -29,3 +29,15 @@ Opa, blz? Me chamo Ray Batista da Silva e atualmente estudo Engenharia de Softwa
         src="https://github-stats-extended.vercel.app/api/top-langs/?username=2ray2&theme=dark_github"
     />
 </div>
+
+---
+
+### 🌐 Onde me encontrar
+
+<a href="https://www.linkedin.com/in/ray-batista-40354b37a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="mailto:ray18xyhn@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
